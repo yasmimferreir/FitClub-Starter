@@ -24,8 +24,7 @@ Projeto desenvolvido no intuito de Experiencia Profissonal, práticas para domí
 <h2>🛠 Tecnologias, bibliotecas, gerenciadores:
 <br><h3>Biblioteca ReactJs
 <br><h3>Linguagem JavaScript
-<br><h3>Yarn
-<br><h3>NPM
+<br><h3>Yarn, NPM
 
 
 ## 🤝 Colaborador
