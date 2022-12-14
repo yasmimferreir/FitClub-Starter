@@ -10,7 +10,7 @@ Hook useState, gerenciador de pacotes Yarn, npm. Consiste em uma interface Respo
 <br>
 <img src="https://user-images.githubusercontent.com/97356148/193889788-d62984ce-948c-4f06-a188-130cd19f56d8.png" width="640px" >
 <br>
->  Deploy da aplicação: 
+>  Deploy da aplicação: https://miss-fitnes-academia.netlify.app/
 <br>
 
 
